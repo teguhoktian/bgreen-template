@@ -1,4 +1,4 @@
-# bGreen Template Reactjs <a href="https://twitter.com/intent/tweet" target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
+# bGreen Template Reactjs <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fteguhoktian%2Fbgreen-template.git&text=Free%20mobile%20friendly%20Reactjs%20Tailwind%20Template%20on%20Github" target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
 
 ![bGreen Template](https://github.com/teguhoktian/bgreen-template/blob/master/public/bGreenMockUp.png?raw=true)
 
