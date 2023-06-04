@@ -1,13 +1,54 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.adminLayout {
+    @apply flex md:h-screen h-[calc(100vh-4rem)] overflow-hidden bg-slate-100;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.mainWrapper{
+    @apply flex flex-1 flex-col overflow-x-hidden overflow-y-scroll;
+}
+
+.mainCard{
+    @apply mx-auto md:px-6 lg:px-8 md:pb-6 md:pt-8 p-4 md:py-6;
+}
+
+.widgetCard{
+    @apply rounded-md border border-slate-300 text-sm shadow-md;
+}
+
+.scrolledCard{
+    @apply cursor-pointer rounded-md text-sm flex-shrink-0 md:flex-shrink px-2 py-4 w-[160px] lg:w-1/5;
+}
+
+.cardInfo{
+    @apply bg-sky-200 text-sky-900 border border-sky-400
+}
+
+.cardWarning{
+    @apply bg-amber-200 text-amber-900 border border-amber-400
+}
+
+.cardDanger{
+    @apply bg-red-200 text-red-900  border border-red-400
+}
+
+.cardSuccess{
+    @apply bg-emerald-200 text-emerald-900  border border-emerald-400
+}
+
+.cardLime{
+    @apply bg-lime-200 text-lime-900  border border-lime-400
+}
+
+
+.no-scrollbar::-webkit-scrollbar{
+    display: none;
+}
+
+.no-scrollbar{
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
 }
