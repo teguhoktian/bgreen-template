@@ -43,3 +43,7 @@ This template provides Responsive Navigation and Mobile Friendly Feature based o
 ### Demo
 
 Demo: <a href="">Demo bGreen Template</a>
+
+### Donation
+
+Buy Me some Cofee and Snack with Donate me at [Saweria](https://saweria.co/raincodemyid)
