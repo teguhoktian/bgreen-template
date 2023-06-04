@@ -4,7 +4,7 @@
 
 ### Get Started
 
-- Install NodeJS **LTS** version from <a href="https://nodejs.org/en/?ref=creativetim">NodeJs Official Page</a>
+- Install NodeJS **LTS** version from <a href="https://nodejs.org/en/">NodeJs Official Page</a>
 - Download the product on this page
 - Unzip the downloaded file to a folder in your computer
 - Open Terminal
@@ -14,7 +14,7 @@
 - (If not) Run in terminal `npm run build` for build your project
 - (If not) Run in terminal `npm run dev`
 - Navigate to https://localhost:3000
-- Check more about [Tailwind CSS](https://tailwindcss.com/?ref=creativetim)
+- Check more about [Tailwind CSS](https://tailwindcss.com/)
 
 ### Pages
 
