@@ -1,4 +1,4 @@
-# bGreen Template Reactjs <a href="https://twitter.com/teguhoktian" target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
+# bGreen Template Reactjs <a href="https://twitter.com/intent/tweet" target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
 
 ### Get Started
 
@@ -42,7 +42,7 @@ This template provides Responsive Navigation and Mobile Friendly Feature based o
 
 ### Demo
 
-Demo: <a href="">Demo bGreen Template</a>
+Demo: <a href="https://thriving-kataifi-7c5d45.netlify.app/">Demo with Netlify</a>
 
 ### Donation
 
