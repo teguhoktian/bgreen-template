@@ -1,5 +1,7 @@
 # bGreen Template Reactjs <a href="https://twitter.com/intent/tweet" target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
 
+![bGreen Template](https://github.com/teguhoktian/bgreen-template/blob/master/public/bGreenMockUp.png?raw=true)
+
 ### Get Started
 
 - Install NodeJS **LTS** version from <a href="https://nodejs.org/en/?ref=creativetim">NodeJs Official Page</a>
